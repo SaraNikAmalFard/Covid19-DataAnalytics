@@ -30,3 +30,10 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 
 *Data on type of lockdown each country and their provinces underwent:*
 https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country
+
+---
+### Team
+|<a href="https://github.com/SaraNikAmalFard" target="_blank">**Sara Nikamalfard**</a>|<a href="https://github.com/LaokoIzzat" target="_blank">**Laoko Izzat**</a>| <a href="https://github.com/ghostbustersrock" target="_blank">**Luca Santarelli**</a>|
+| :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| [![Sara Nikamalfard](https://avatars.githubusercontent.com/u/20257006?v=4)](https://github.com/SaraNikAmalFard) | [![Laoko Izzat](https://avatars.githubusercontent.com/u/60801133?v=4)](https://github.com/LaokoIzzat) | [![Luca Santarelli](https://avatars.githubusercontent.com/u/12700821?v=4)](https://github.com/ghostbustersrock) |
+|<a href="https://github.com/SaraNikAmalFard" target="_blank">`github.com/SaraNikAmalFard`</a>|<a href="https://github.com/LaokoIzzat" target="_blank">`github.com/LaokoIzzat`</a>|                <a href="https://github.com/ghostbustersrock" target="_blank">`github.com/ghostbustersrock`</a>|
