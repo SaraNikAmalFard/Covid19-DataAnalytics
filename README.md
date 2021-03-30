@@ -1,7 +1,7 @@
 
 # ECS784P - Data Analytics - Python Coursework 2020/21
 
-### PUT NAME OF OUR PROJECT TITLE!!!
+### Data Analysis on COVID-19 Lockdown Effectiveness
 ---
 ### Project contributors: 
 - Sara Nikamalfard, 190677491 (https://github.com/SaraNikAmalFard)
